@@ -1,0 +1,94 @@
+{
+  "products": [
+    {
+      "name": "cocacola",
+      "secondary_name": "تفاح",
+      "old_price": 5.0,
+      "new_price": 3.5,
+      "discount": 30,
+      "image_url": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2179849363.jpg?c=16x9&q=h_653,w_1160,c_fill/f_avif",
+      "currency": "$"
+    },
+    {
+      "name": "mango",
+      "secondary_name": "أرز",
+      "old_price": 20.0,
+      "new_price": 15.0,
+      "discount": 25,
+      "image_url": "https://foodal.com/wp-content/uploads/2015/06/Marvelous-Mangos-King-of-Fruits.jpg",
+      "currency": "$"
+    },
+    {
+      "name": "souce",
+      "secondary_name": "لحم",
+      "old_price": 200.0,
+      "new_price": 150.0,
+      "discount": 25,
+      "image_url": "https://5.imimg.com/data5/SELLER/Default/2024/3/398297040/RT/DM/KK/44772625/red-chilli-souce-650-ml-1000x1000.jpg",
+      "currency": "Tk"
+    },
+    {
+      "name": "pepsi",
+      "secondary_name": "عصير",
+      "old_price": 6.0,
+      "new_price": 4.0,
+      "discount": 33,
+      "image_url": "https://media.istockphoto.com/id/487787092/photo/can-and-glass-of-pepsi-cola.jpg?s=612x612&w=0&k=20&c=4Lqp4y8xCIF4IrV2a6DGkNhreCUwEAVfv3mEgb9aUJY=",
+      "currency": "$"
+    },
+    {
+      "name": "apple",
+      "secondary_name": "تفاح أحمر",
+      "old_price": 12.0,
+      "new_price": 9.0,
+      "discount": 25,
+      "image_url": "https://hips.hearstapps.com/hmg-prod/images/apples-at-farmers-market-royalty-free-image-1627321463.jpg?crop=0.796xw:1.00xh;0.103xw,0&resize=980:*",
+      "currency": "$"
+    },
+    {
+      "name": "rice",
+      "secondary_name": "أرز بسمتي",
+      "old_price": 50.0,
+      "new_price": 40.0,
+      "discount": 20,
+      "image_url": "https://c.ndtvimg.com/2023-08/brlp7gk_uncooked-rice-or-rice-grains_625x300_18_August_23.jpg?im=FaceCrop,algorithm=dnn,width=773,height=435",
+      "currency": "Tk"
+    },
+    {
+      "name": "chicken",
+      "secondary_name": "دجاج",
+      "old_price": 150.0,
+      "new_price": 120.0,
+      "discount": 20,
+      "image_url": "https://assets.farmison.com/images/recipe-detail-1380/76340-yorkshire-free-range-loose-birds-chicken3c3e9dd7-8edd-41fa-b35d-73f3cb951b8asquare900x900.jpg",
+      "currency": "Tk"
+    },
+    {
+      "name": "orange juice",
+      "secondary_name": "برتقال",
+      "old_price": 15.0,
+      "new_price": 10.0,
+      "discount": 33,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Orangejuice.jpg/800px-Orangejuice.jpg",
+      "currency": "$"
+    },
+    {
+      "name": "milk",
+      "secondary_name": "حليب",
+      "old_price": 25.0,
+      "new_price": 20.0,
+      "discount": 20,
+      "image_url": "https://mydiagnostics.in/cdn/shop/articles/img-1748326586409_1200x.jpg?v=1748327918",
+      "currency": "Tk"
+    },
+    {
+      "name": "bread",
+      "secondary_name": "خبز",
+      "old_price": 8.0,
+      "new_price": 6.0,
+      "discount": 25,
+      "image_url": "https://www.bhg.com/thmb/ix1jf9aUXcxyFtekIBlVCAIBW4w=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/BHG-milk-bread-4CdeIL1uKGyB5ryU8J_EED-aaa76729c86a413ca7500029edba79f0.jpg",
+      "currency": "$"
+    }
+  ]
+}

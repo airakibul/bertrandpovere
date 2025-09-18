@@ -9,3 +9,9 @@ PyPDF2
 python-docx
 PyMuPDF
 python-multipart
+langchain_pinecone
+langchain-community
+pypdf
+cryptography
+faiss-cpu
+sentence-transformers
