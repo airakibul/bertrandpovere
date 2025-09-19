@@ -12,6 +12,7 @@ dependencies = [
     "fastapi>=0.116.2",
     "langchain>=0.3.27",
     "langchain-community>=0.3.29",
+    "langchain-huggingface>=0.3.1",
     "langchain-openai>=0.3.33",
     "langchain-pinecone>=0.2.12",
     "langgraph>=0.6.7",
